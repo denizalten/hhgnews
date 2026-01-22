@@ -1,0 +1,14 @@
+[
+{
+"id": 1,
+"title": "Erste Nachricht",
+"content": "Willkommen auf HHG News!",
+"date": "2026-01-22"
+},
+{
+"id": 2,
+"title": "Zweite Nachricht",
+"content": "Dies ist ein Test für JSON-News.",
+"date": "2026-01-22"
+}
+]
